@@ -1,0 +1,2 @@
+create new user in params, and switch int the off on menu
+ssh: su - username
